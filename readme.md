@@ -1,37 +1,30 @@
-# _{Application Name}_
+# Moray Dentistry Website
 
-#### By _**{List of contributors}**_
+#### By Aitana S & Alex J
 
-#### _{Brief description of application}_
+#### A dentistry website designed for the care and cleaning of Moray eel teeth.
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* HTML
+* CSS
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+Moray Dentistry is a comprehensive clinic by and for moray eels (family _Muraenidae_). Dental technicians, such as Samantha the cleaner shrimp, are mentioned in the About page. We created this website to help morays find dental care, no matter which ocean they habitate. 
 
 ## Setup/Installation Requirements
-
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+In order to view this website:
+* Clone repository
+* Open local files (moray-dentistry/index.html) in browser
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* None
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+* _GNU General Public License_
+* _HTML slideshow code adapted from GeeksforGeeks_ <https://www.geeksforgeeks.org/programming-a-slideshow-with-html-and-css/>
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _Aitana S & Alex J, October 12, 2022_
