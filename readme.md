@@ -20,7 +20,7 @@ In order to view this website:
 
 ## Known Bugs
 
-* None
+* About page with Slideshow alters the header and main div box.
 
 ## License
 

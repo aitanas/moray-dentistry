@@ -48,6 +48,21 @@ body {
   
 }
 
+
+.about-text-box {
+  font-family: sans-serif;
+  text-align: left;
+  padding: 30px;
+  /*box-sizing: border-box;*/
+  margin-top: 200px;
+  color: #343434;
+  display: block;
+  margin: auto;
+  width: 875px;
+  background-color: white;
+  
+}
+
 .links {
   font-family: sans-serif;
   text-align: right;
@@ -104,6 +119,7 @@ with a fixed width and height */
   /* Calculate the total width on the
 basis of number of slides */
   width: calc(728px * 4);
+  position: relative;
    
   /* Specify the animation with the
 duration and speed */
@@ -152,4 +168,16 @@ each of the slides */
 
 .caption {
   color: whitesmoke;
+}
+
+.box-color {
+  background: black;
+  color: white;
+  font-weight: 300;
+  font-family: monospace;
+  text-align: center;
+  float: right;
+  position: absolute;
+  bottom: 10px;
+  right: 20px;
 }
