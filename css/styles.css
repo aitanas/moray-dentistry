@@ -181,3 +181,13 @@ each of the slides */
   bottom: 10px;
   right: 20px;
 }
+
+.map-header {
+  color: orangered;
+  text-align: center;
+}
+
+.map-text {
+  color: white;
+  background: black;
+}
