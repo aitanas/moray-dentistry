@@ -80,6 +80,28 @@ body {
   border-bottom-style: solid;
 }
 
+.box-left {
+  border-bottom-width: thick;
+  margin: 20px;
+  box-sizing: border-box;
+  float: left;
+  background-color: #d1faff;
+  width: 325px;
+  display: block;
+  border-bottom-style: solid;
+}
+
+.box-bottom {
+  border-bottom-width: thick;
+  margin: 20px;
+  box-sizing: border-box;
+  float: bottom;
+  background-color: #000000;
+  width: 325px;
+  display: block;
+  border-bottom-style: solid;
+}
+
 .list-right {
   text-align: right;
 }
