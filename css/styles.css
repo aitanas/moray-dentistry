@@ -1,15 +1,19 @@
 .header {
   font-family: sans-serif;
   font-weight: 500;
+  text-align: right;
 
 }
 
-.image-bar {
-  font-family: sans-serif;
+.centered-image {
+  width: 1170px;
+  height: 420px;
 }
 
 .text-box {
   font-family: sans-serif;
   text-align: center;
 
+.list-right {
+  text-align: right;
 }
